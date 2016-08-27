@@ -1,0 +1,145 @@
+[Thu, 25 Jun 15 11:21:59 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:22:00 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:22:00 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:22:55 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:24:55 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:24:57 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:25:00 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:37:13 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:37:13 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:39:32 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:39:32 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:41:04 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 11:41:04 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 12:20:24 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controller\CommentController)' in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\restful\svn\PHP\trunk\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\restful\svn\PHP\trunk\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 13:49:22 +0000][INFO] Missing argument 1 for Controllers\CommentController::articleAction() (errno: 2) in E:\web\api\app\modules\controller\CommentController.php:35
+[Thu, 25 Jun 15 15:49:02 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:49:28 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:50:22 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:50:23 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:50:36 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:50:50 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:51:20 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:51:52 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:52:10 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123
+[Thu, 25 Jun 15 15:52:18 +0000][INFO] Uncaught exception 'Exception' with message 'Wrong controller name in routes (Controllers\PraiseController)' in E:\web\api\app\engine\ApplicationMicro.php:123
+Stack trace:
+#0 E:\web\api\app\engine\ApplicationMicro.php(88): Engine\Micro->setRoutes()
+#1 E:\web\api\index.php(17): Engine\Micro->__construct()
+#2 {main}
+  thrown (errno: 1) in E:\web\api\app\engine\ApplicationMicro.php:123

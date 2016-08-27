@@ -1,0 +1,8 @@
+[Fri, 29 May 15 10:00:33 +0000][INFO] Undefined index: HTTP_RAW_POST_DATA (errno: 8) in E:\web\restful\svn\PHP\trunk\api\app\modules\controllers\ExampleController.php:34
+[Fri, 29 May 15 10:00:53 +0000][INFO] Undefined index: HTTP_RAW_POST_DATA (errno: 8) in E:\web\restful\svn\PHP\trunk\api\app\modules\controllers\ExampleController.php:34
+[Fri, 29 May 15 10:03:48 +0000][INFO] Undefined index: HTTP_RAW_POST_DATA (errno: 8) in E:\web\restful\svn\PHP\trunk\api\app\modules\controllers\ExampleController.php:34
+[Fri, 29 May 15 10:04:06 +0000][INFO] Undefined index: HTTP_RAW_POST_DATA (errno: 8) in E:\web\restful\svn\PHP\trunk\api\app\modules\controllers\ExampleController.php:34
+[Fri, 29 May 15 10:04:21 +0000][INFO] Undefined index: HTTP_RAW_POST_DATA (errno: 8) in E:\web\restful\svn\PHP\trunk\api\app\modules\controllers\ExampleController.php:34
+[Fri, 29 May 15 10:04:22 +0000][INFO] Undefined index: HTTP_RAW_POST_DATA (errno: 8) in E:\web\restful\svn\PHP\trunk\api\app\modules\controllers\ExampleController.php:34
+[Fri, 29 May 15 10:10:42 +0000][INFO] get_headers() expects at least 1 parameter, 0 given (errno: 2) in E:\web\restful\svn\PHP\trunk\api\app\modules\controllers\ExampleController.php:34
+[Fri, 29 May 15 10:10:49 +0000][INFO] get_headers() expects at least 1 parameter, 0 given (errno: 2) in E:\web\restful\svn\PHP\trunk\api\app\modules\controllers\ExampleController.php:34

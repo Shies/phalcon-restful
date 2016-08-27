@@ -1,0 +1,7 @@
+[2015-06-29 07:25:23 +0000][INFO] 
+[2015-06-29 07:25:29 +0000][INFO] 
+[2015-06-29 07:30:13 +0000][INFO] 
+[2015-06-29 07:30:13 +0000][INFO] SELECT IF(COUNT(*)>0, 1 , 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'wj_comment_data_1' AND `TABLE_SCHEMA` = DATABASE()
+[2015-06-29 07:30:13 +0000][INFO] DESCRIBE `wj_comment_data_1`
+[2015-06-29 07:30:13 +0000][INFO] SELECT `wj_comment_data_1`.`id` AS `id`, `wj_comment_data_1`.`commentid` AS `commentid`, `wj_comment_data_1`.`siteid` AS `siteid`, `wj_comment_data_1`.`userid` AS `userid`, `wj_comment_data_1`.`username` AS `username`, `wj_comment_data_1`.`creat_at` AS `creat_at`, `wj_comment_data_1`.`status` AS `status`, `wj_comment_data_1`.`content` AS `content`, `wj_comment_data_1`.`ip` AS `ip`, `wj_comment_data_1`.`reply` AS `reply`, `wj_comment_data_1`.`praise` AS `praise` FROM wj_comment_data_1 WHERE `wj_comment_data_1`.`id` = 1 LIMIT 1
+[2015-06-29 07:40:02 +0000][INFO] 
