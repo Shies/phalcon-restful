@@ -1,2 +1,2 @@
 # restful-phalcon
-This's a use phalcon write framework for php
+PHP HMAC Restful API that uses Phalcon Micro framework.
